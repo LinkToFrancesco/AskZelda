@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Ask Zelda</string>
+    <string name="send_result">Send The Results</string>
+    <string name="thank1">Thank\'s to </string>
+    <string name="thank2">for attending "Ask Zelda" Quiz App!</string>
+    <string name="total_correct">Total correct answer is: </string>
+    <string name="total_wrong">Total wrong answer is: </string>
+    <string name="total_empty1">There are </string>
+    <string name="total_empty2"> empty questions.</string>
+    <string name="final_msg1">You can do better next time:)</string>
+    <string name="final_msg2">Best Fan Ever! :)</string>
+    <string name="final_msg3">See you again!</string>
+    <string name="toast_1">You have</string>
+    <string name="toast_2">correct answers out of 4!</string>
+    <string name="toast_3">Detailed results are here...</string>
+    <string name="question1">Who\'s Link?</string>
+    <string name="question1option1">A Boy</string>
+    <string name="question1option2">A Girl</string>
+    <string name="question1option3">A Duck</string>
+    <string name="question2">What\'s the first game in the official Timeline??</string>
+    <string name="question2option1">The Legend of Zelda: The Minish Cap</string>
+    <string name="question2option2">The Legend of Zelda: Skyward Sword</string>
+    <string name="question2option3">The Legend of Zelda: Ocarina of Time</string>
+    <string name="question3">In which of these colors is   Link split in FSA? (2 Options)</string>
+    <string name="question3option1">Blue</string>
+    <string name="question3option2">White</string>
+    <string name="question3option3">Red</string>
+    <string name="question4">What\'s the name of the Sword used by Link?</string>
+    <string name="sumitButton">Touch Link to sumit! ;)</string>
+
+</resources>
